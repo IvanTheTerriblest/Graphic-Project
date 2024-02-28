@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\An 3 Sem 1\Proiect bun\Proiect\Proiect\main.cpp(33,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\An 3 Sem 1\Proiect bun\Proiect\Proiect\main.cpp(173,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\An 3 Sem 1\Proiect bun\Proiect\Proiect\main.cpp(173,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  3 of 1821 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Proiect.vcxproj -> C:\An 3 Sem 1\Proiect bun\Proiect\x64\Release\Proiect.exe

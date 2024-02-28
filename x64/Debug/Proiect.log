@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\An 3 Sem 1\Proiect bun\Proiect\Proiect\main.cpp(33,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\An 3 Sem 1\Proiect bun\Proiect\Proiect\main.cpp(173,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\An 3 Sem 1\Proiect bun\Proiect\Proiect\main.cpp(173,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Proiect.vcxproj -> C:\An 3 Sem 1\Proiect bun\Proiect\x64\Debug\Proiect.exe
